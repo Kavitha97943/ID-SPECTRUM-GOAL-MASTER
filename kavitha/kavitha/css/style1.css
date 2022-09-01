@@ -1,0 +1,159 @@
+body{
+    background-color:  #F8EEB4;
+    height: 896px;
+    width: 400px;
+}
+.goal{
+    
+position: absolute;
+width: 111px;
+height: 22px;
+left: 52px;
+top: 65px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18.4px;
+line-height: 22px;
+color: #0A303C;
+
+}
+.welcome{
+position: absolute;
+width: 229px;
+height: 102px;
+left: 32px;
+top: 210px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 51px;
+color: #0A303C;
+
+}
+.para{
+    
+position: absolute;
+width: 269px;
+height: 95px;
+left: 41px;
+top: 350px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 136.4%;
+/* or 19px */
+color: #0A303C;
+
+
+}
+
+
+.see p{
+ position: absolute;
+ height: 60px;
+width: 350px;
+left: 32px;
+top: 490px;
+border-radius: 5px;
+background-color:#0A303C; 
+position: absolute;
+width: 164px;
+height: 24px;
+left: 52px;
+top: 508px;
+color:#FFF5B9 ;
+padding: 16px 1px 16px 47px;
+}
+
+
+.or p{
+    position: absolute;
+width: 18px;
+height: 21px;
+left: 152px;
+top: 569px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #0A303C;
+
+}
+
+.login p{
+position: absolute;
+width: 115px;
+height: 24px;
+left: 52px;
+top: 631px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #0A303C;
+background-color: #EAE0AA;
+padding: 18px 45px 18px 52px;
+border-radius: 5px;
+;
+
+}
+.middle{
+    position: absolute;
+width: 53px;
+height: 53px;
+left: 330px;
+top: 770px;
+
+background: linear-gradient(225deg, #0C3746 0%, #092A35 100%);
+box-shadow: inset -4px -4px 8px #092731, inset 4px 4px 8px rgba(255, 255, 255, 0.35);
+border-radius: 40px;
+}
+.half{
+position: absolute;
+width: 195.99px;
+height: 195.99px;
+left: -83.05px;
+top: 745.82px;
+
+background: linear-gradient(225deg, #0C3746 0%, #092A35 100%);
+box-shadow: inset -4px -4px 8px #092731, inset 4px 4px 8px rgba(255, 255, 255, 0.35);
+border-radius: 102px;
+transform: rotate(70.21deg);
+}
+.first{
+    position: absolute;
+width: 27px;
+height: 27px;
+left: 32px;
+top: 178px;
+
+background: linear-gradient(225deg, #0C3746 0%, #092A35 100%);
+box-shadow: inset -4px -4px 8px #092731, inset 4px 4px 8px rgba(255, 255, 255, 0.35);
+border-radius: 15px;
+
+}
+.sphere{
+    ox-sizing: border-box;
+
+position: absolute;
+width: 178px;
+height: 178px;
+left: 357px;
+top: 201px;
+
+border: 2px solid #0A303C;
+border-radius: 86px;
+}
